@@ -1,0 +1,48 @@
+KonGer V6.3
+Informacje dla zbioru wiercen EDRIVE.DRL
+
+Format EXCELLON INCH,LZ
+T1 : 0.1220" -  3.10mm    3 otw. B
+T2 : 0.0236" -  0.60mm  120 otw.
+T3 : 0.0276" -  0.70mm   22 otw.
+T4 : 0.0315" -  0.80mm  388 otw.
+T5 : 0.0354" -  0.90mm   96 otw.
+T6 : 0.0394" -  1.00mm   14 otw.
+T7 : 0.0433" -  1.10mm    8 otw.
+T8 : 0.0472" -  1.20mm   20 otw.
+T9 : 0.0510" -  1.30mm    4 otw.
+T10 : 0.0630" -  1.60mm   56 otw.
+T11 : 0.0709" -  1.80mm   20 otw.
+T12 : 0.0984" -  2.50mm    4 otw.
+T13 : 0.1260" -  3.20mm    6 otw.
+T14 : 0.1614" -  4.10mm   18 otw.
+
+srednice narzêdzi jak w dost. zbiorze
+
+###########################################
+# Zdanowski/mikran
+# Do modyfikacji 12.12.2010
+
+Format EXCELLON INCH,LZ
+T1 : 0.1220" -  3.10mm    3 otw. B
+T2 : 0.0236" -  0.60mm  120 otw.
+---------------------------------
+T3 : 0.0276" -  0.70mm   0 otw.
+T3 : 0.0276" -  0.80mm   22 otw.
+---------------------------------
+T4 : 0.0315" -  0.80mm  388 otw.
+T5 : 0.0354" -  0.90mm   96 otw.
+---------------------------------
+T6 : 0.0394" -  1.00mm   0 otw.
+T6 : 0.0394" -  1.10mm   14 otw.
+--------------------------------
+T7 : 0.0433" -  1.10mm    8 otw.
+T8 : 0.0472" -  1.20mm   20 otw.
+T9 : 0.0510" -  1.30mm    4 otw.
+T10 : 0.0630" -  1.60mm   56 otw.
+T11 : 0.0709" -  1.80mm   20 otw.
+T12 : 0.0984" -  2.50mm    4 otw.
+T13 : 0.1260" -  3.20mm    6 otw.
+T14 : 0.1614" -  4.10mm   18 otw.
+
+srednice narzêdzi jak w dost. zbiorze
