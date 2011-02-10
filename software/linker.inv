@@ -1,0 +1,12 @@
+--stack-loc
+0x81
+.\src\obj\edrive.rel,
+.\src\obj\rtc.rel,
+.\src\obj\pull.rel,
+.\src\obj\flash.rel,
+.\src\obj\menu.rel,
+.\src\obj\lcd.rel,
+.\src\obj\keypad.rel,
+.\src\obj\pwm.rel,
+.\src\obj\pswd.rel,
+.\src\obj\salarm.rel
