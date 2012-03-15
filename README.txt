@@ -127,3 +127,6 @@ generated during compilation.
 
 Solution: Use last batch compiled code (holofix 1.hex) which works OK. Binaries
 added to CVS
+
+Or
+Use only SDCC 2.4.0 (Feb 23 2004) as prinft and modulo doesn't work otherwise
